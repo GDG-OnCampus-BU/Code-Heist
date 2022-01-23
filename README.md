@@ -1,5 +1,7 @@
 # CodeHeist Solutions
 
+Join Google DSC organisation: ![visit link](https://bit.ly/Github_GDSC_BU) 
+
 ## What was CodeHeist?
 
 [CodeHeist](https://dsc-bennett-university.github.io/Code%20Heist/Heist.html) was a six week coding contest organised for coders of all proficiencies, from beginners to well versed. It was powered by the HackerRank platform.
