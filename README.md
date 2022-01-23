@@ -1,6 +1,6 @@
 # CodeHeist Solutions
 
-Join Google DSC organisation: ![visit link](https://bit.ly/Github_GDSC_BU) 
+Join Google DSC organisation: [visit link](https://bit.ly/Github_GDSC_BU) 
 
 ## What was CodeHeist?
 
