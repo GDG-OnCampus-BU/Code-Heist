@@ -1,4 +1,4 @@
-# Greedy
+# Greedy Manager
 
 You are the **resource manager** and your job is to manage gold. You already *have enough* to fulfill everyone’s need. There is a queue of people in line who either *give* gold to you represented by **positive**(+) value or *take* gold from you represented by a **negative**(-) value. 
 
