@@ -6,7 +6,7 @@ You are a greedy person -- so you decided to *get maximum profit* by **skipping*
 
 ## Input
 
-- First line rpresents the number of test cases.
+- First line represents the number of test cases.
 
 - Second line represents the number of people.
 
