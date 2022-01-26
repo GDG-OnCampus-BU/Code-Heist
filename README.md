@@ -6,7 +6,7 @@ Join Google DSC organisation: [visit link](https://bit.ly/Github_GDSC_BU)
 
 [CodeHeist](https://dsc-bennett-university.github.io/Code%20Heist/Heist.html) was a six week coding contest organised for coders of all proficiencies, from beginners to well versed. It was powered by the HackerRank platform.
 
-Divided into **6** contests which spanned across **2** divisions. Division-1 for 2nd, 3rd, and 4th year college students while the Divisions-2 1st year college or school students. Respectively.
+Divided into **6** contests which spanned across **2** divisions. Division-1 for 2nd, 3rd, and 4th year college students while the Division-2 was exclusive to 1st year college and school students. Respectively.
 
 ## What is this?
 
