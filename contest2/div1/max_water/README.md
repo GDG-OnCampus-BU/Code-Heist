@@ -43,4 +43,4 @@ Index of two sticks to connect.
 
 ### Explanation
 
-By connecting stick at index `1` and `6`, Tokyo can get the max area of `30` (6 * 5).
+By connecting stick at index `0` and `1`, Tokyo can get the max area of `15` (3 * 5).
