@@ -95,6 +95,7 @@ Action could be one of the following:
 
 - [Fix]
 - [Add]
+- [Remove]
 - [Update]
 - [Doc]
 
