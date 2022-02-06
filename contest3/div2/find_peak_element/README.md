@@ -79,40 +79,40 @@ Index of Peak: 2
 Index of Peak: 2
 ```
 
-## Case 2
+### Case 2
 
 ```py
 6
 1 3 20 4 1 0
 ```
 
-## Output
+### Output
 
 ```py
 Index of Peak: 2
 ```
 
-## Case 3
+### Case 3
 
 ```py
 8
 1 2 3 4 5 6 7 8
 ```
 
-## Output
+### Output
 
 ```py
 Index of Peak: 7
 ```
 
-## Case 4
+### Case 4
 
 ```py
 5
 0 0 0 0 0
 ```
 
-## Output
+### Output
 
 ```py
 Index of Peak: 0
