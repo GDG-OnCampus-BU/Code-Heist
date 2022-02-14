@@ -7,8 +7,16 @@ Assume yourself as a teacher and rearrange them in such a way that boys and girl
 ## Input
 
 - First line represents number of students (`n`)
+
+```py
+n >= 2
+```
+
 - `n/2` lines represents registration IDs of girls
 - Next `n/2` lines represents registration IDs of boys
+
+> All registration ID's should be >= 400 to be valid.
+
 
 ## Output
 
