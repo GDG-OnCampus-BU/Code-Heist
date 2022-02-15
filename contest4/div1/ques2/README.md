@@ -1,4 +1,4 @@
-# Question 2 (name yet to change)
+# Solve Postfix
 
 Alan is learning to evaluate arithmetic expressions with his friends. His class teacher gave the students a problem like this, and asked "What is the result?":
 
