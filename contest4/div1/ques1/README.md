@@ -1,4 +1,4 @@
-# Question 1 (name yet to change)
+# Rearrange Students
 
 In a **playschool**, there are `n` number of students in total out of which `n/2` are girls and `n/2` are boys. Every morning -- when they are asked to form a queue during prayer time in such a way that first `n/2` students in the queue are girls while the other `n/2` are boys.
 
